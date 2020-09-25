@@ -11,12 +11,6 @@
 <!--
 **andreluis7/andreluis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-A little about myself:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluis7&layout=compact)](https://github.com/andreluis7/github-readme-stats)
 
-- 🔭 I’m currently working on Java Web Delelopment in Gemmap Sistemas
-- 🌱 I’m currently learning Spring, Javascript, Design Patterns
-- 👯 I’m looking to collaborate on Java comunities 
-- 🤔 I’m looking for help with Angular, React
-- 💬 Ask me about system development
-- 📫 How to reach me: Linkedin, Gmail
-- 😄 Pronouns: Solve problems, play video game, running
+![andreluis7 github stats](https://github-readme-stats.vercel.app/api?username=andreluis7&show_icons=true&theme=vue-dark)
