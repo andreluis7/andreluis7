@@ -23,9 +23,10 @@ A little about myself:
 - 📫 How to reach me: Linkedin, Gmail	
 - 😄 Pronouns: Solve problems, play video game, running
 </td>
-<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=andreluis7&theme=cobalt" /></td>
-<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluis7&theme=radical /></td>
-</tr>  
+<td><img  src="https://github-readme-stats.vercel.app/api?username=andreluis7&theme=cobalt" />
+<img width = "400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluis7&hide=html&layout=compact&theme=cobalt" /></td>
+</tr>
+  
 </table>
 </center>
 
